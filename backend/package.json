@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  },
+  "dependencies": {
+    "@craco/craco": "^7.1.0"
+  }
+}

@@ -1,0 +1,15 @@
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .form-field {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-error {
+    color: #d32f2f;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+  }
